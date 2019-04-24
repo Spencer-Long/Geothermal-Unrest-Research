@@ -8,5 +8,3 @@ Deep learning has had significant recent success, and is outperforming other sta
 **Date:** January 2019
 
 **Mentor:** Dr. Susanne Still
-
-# Geothermal-Unrest-Research
