@@ -9,6 +9,4 @@ Deep learning has had significant recent success, and is outperforming other sta
 
 **Mentor:** Dr. Susanne Still
 
-**Project Funding:**
-- Undergraduate Research Opportunities Program ([UROP](http://manoa.hawaii.edu/undergrad/urop/)) Grant
 # Geothermal-Unrest-Research
